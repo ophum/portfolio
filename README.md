@@ -52,6 +52,10 @@ IT開発エキスパートコース ネットワーク専攻 3年次
 - ECCCompWebPractice2Cheat (<a href="https://github.com/ophum/ECCCompWebPractice2Cheat">リポジトリ</a>)
     - CSSの授業課題にある疑似コードを変換する
     - JavaScript
+- テトリス(<a href="https://github.com/ophum/tetris">リポジトリ</a>)
+    - JavaScript
+    - サークルで使用するサンプルとして作成
+    - <a href="https://ophum.github.io/tetris/tetris.html">https://ophum.github.io/tetris/tetris.html</a>
 
 ## 好きなプログラミング言語
 - C言語
